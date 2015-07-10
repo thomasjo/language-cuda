@@ -1,0 +1,20 @@
+{
+  "name": "language-cuda",
+  "version": "0.0.0",
+  "description": "CUDA C/C++ language support",
+  "keywords": [
+    "cuda",
+    "c++",
+    "c",
+    "gpu",
+    "kernel",
+    "runtime",
+    "language",
+    "grammar"
+  ],
+  "repository": "https://github.com/thomasjo/language-cuda",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

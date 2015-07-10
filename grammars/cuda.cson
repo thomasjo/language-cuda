@@ -1,0 +1,14 @@
+'name': 'CUDA'
+'scopeName': 'source.cuda'
+'fileTypes': [
+  'cu'
+  'cuh'
+]
+'patterns': [
+  {
+    'include': 'source.c'
+  }
+  {
+    'include': 'source.cpp'
+  }
+]
